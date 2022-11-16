@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 😎 Currently working as Engineering Lead at Tier Mobility<br> 🥑 Saving the world through code in my free time, building machine learning solutions for Nutrition and Mental health<br>🐻Currently enhancing my DevOps skills<br>💫Did you know the answer to the universe is 42?
 
 
